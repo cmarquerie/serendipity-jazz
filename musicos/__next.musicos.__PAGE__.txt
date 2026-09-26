@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[617,["140","static/chunks/app/musicos/page-cac20c6919f4cdbf.js"],"PrivateAccessRedirect"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"musicians-access-page","children":["$","section",null,{"className":"musicians-access-card","children":[["$","span",null,{"className":"access-lock","aria-hidden":"true","children":"S"}],["$","p",null,{"className":"eyebrow","children":"SERENDIPITY JAZZ"}],["$","h1",null,{"children":"Área privada de músicos"}],["$","p",null,{"children":"Acceso al archivo y al panel de promoción. Las cuentas nuevas quedan pendientes hasta que Carlos las aprueba."}],["$","$L2",null,{}],["$","p",null,{"className":"musicians-access-note","children":"Si no avanzas automáticamente, utiliza el botón de acceso."}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"NGp6j8fJsxamq0IpCgEXO"}
+5:null
